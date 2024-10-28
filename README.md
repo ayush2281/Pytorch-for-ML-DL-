@@ -6,7 +6,7 @@ Modules
 What does it cover?
 
 Many fundamental PyTorch operations used for deep learning and neural networks.
-01 - PyTorch Workflow
+01 -  PyTorch Workflow
 What does it cover?
 
 Provides an outline for approaching deep learning problems and building neural networks with PyTorch.
