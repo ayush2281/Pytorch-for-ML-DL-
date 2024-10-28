@@ -1,6 +1,3 @@
-# Pytorch-for-ML-DL-
-**This repo is depend on the machine and deep learning farmework(Pytorch), we will learn from sctrach the pytorch, start from chapter 0 to go chapter04**
-
 # PyTorch Zero to Mastery
 Welcome to the PyTorch Zero to Mastery repository! This repository contains Jupyter notebooks designed to take you from the basics of PyTorch to advanced deep learning techniques.
 
